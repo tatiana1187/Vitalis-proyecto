@@ -1,0 +1,15 @@
+
+# Configuración local y secretos
+.env
+**/.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+frontend/dist/
+
+# Java / Maven
+backend/target/
